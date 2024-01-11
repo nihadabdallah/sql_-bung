@@ -1,2 +1,2 @@
-# sql_-bung
+# sql_uebung
 eine SQL übung
